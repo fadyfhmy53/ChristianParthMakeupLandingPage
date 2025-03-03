@@ -1,5 +1,4 @@
-# ChristianParthMakeupLandingPage
-<!DOCTYPE html>
+    # Christian Parth Makeup Artist
 <html lang="de">
 <head>
     <meta charset="UTF-8">
@@ -102,7 +101,6 @@
 
 <section class="section">
     <h2>Kontakt</h2>
-    <p>E-Mail: <a href="mailto:christianparthmakeup@example.com">christianparthmakeup@example.com</a></p>
     <p>Instagram: <a href="https://www.instagram.com/christianparthmakeup/" target="_blank">@christianparthmakeup</a></p>
 </section>
 
